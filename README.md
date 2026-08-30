@@ -1,4 +1,5 @@
 🖖 Dennys Jun Takao
+---
 `Senior Software Engineer`
 </br>
 @<a href="https://djtconsultoria.com.br/" target="_blank">DJT Consultoria</a> | Ecosistema Microsoft | Full-Stack Developer | 20+ anos de experiência em TI
