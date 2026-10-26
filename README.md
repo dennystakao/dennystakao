@@ -78,6 +78,7 @@ Desenvolvedor full-stack com 10+ anos de experiência em Ecosistema Microsoft (.
 💼 Resumo de Experiências<br>
 </br>
 Analista Desenvolvedor de Sistemas Sr @`DJT Consultoria` (03/2024 – Atual)<br>
+Analista Desenvolvedor de Sistemas @`Certsys` (08/2026 – Atual)<br>
 Analista Desenvolvedor de Sistemas Sr @`Eicon` (07/2020 - 03/2024)<br>
 Analista Desenvolvedor de Sistemas @`Almaviva Solutions (Magna Sistemas)` (06/2019 - 06/2020)<br>
 Analista Desenvolvedor de Sistemas Jr @`Faculdade Fipecafi` (02/2016 - 06/2019)<br>
